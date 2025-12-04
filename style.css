@@ -1,0 +1,124 @@
+body{
+  margin: 0px;
+  background: linear-gradient(aqua, yellow, red, white, aqua, yellow);
+  background-repeat: no-repeat;
+  
+}
+h1{
+  margin-top: 1px;
+  text-align: center;
+  font-size: 60px;
+  color: mediumvioletred;
+  text-shadow: 12px 10px 10px white;
+}
+.h1{
+  font-family: sans;
+  margin-top: -409px;
+  text-align: center;
+  font-size: 48px;
+  color: yellow;
+  text-shadow: 10px 3px 10px black;
+}
+table{
+  margin-top: -44px;
+  border-spacing: 30px;
+  font-size: 27px;
+  border: 3px solid red;
+  margin-left: 0px;
+  width: 100%;
+}
+table tr td{
+  color: mediumvioletred;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 10px;
+  border: 3px solid blue;
+  background:   lightgoldenrodyellow;
+  box-shadow: 9px 3px 24px 0px white;
+}
+td a{
+   text-shadow: 3px 5px 2px white;
+  color: mediumvioletred;
+}
+.a{
+  font-weight: bold;
+  font-size: 48px;
+  font-family: cursive;
+  border-spacing: 0px;
+  margin-top: 14px;
+  border: 6px solid lime;
+  margin-bottom: 20px;
+  margin-left: 26px;
+  width: 94%;
+  border-radius: 60px;
+  height: 9px;
+  background: linear-gradient( pink, lavenderblush, lightgoldenrodyellow);
+}
+{
+  background: lightgoldenrodyellow  lavenderblush
+}
+.a tr td {
+  text-shadow: 1px 4px 0px yellow;
+  height: 260px;
+  color: mediumblue;
+  font-weight: bold;
+  text-align: justify;
+  border-radius: 10px;
+  border: 0px solid blue;
+  background: transparent;
+  box-shadow: 0px 0px 0px 0px;
+}
+.a hr{
+  height: 8px;
+  background: darkgoldenrod;
+}
+video{
+  border: 5px solid aqua;
+  opacity: 90%;
+  background: aquamarine;
+  background-size: 00px;
+  margin-top: -260px;
+  width: 334px;
+  height: 590px;
+  border-top-left-radius: 50px;
+  border-top-right-radius: 50px;
+  border-bottom-left-radius: 50px;
+  border-bottom-right-radius: 50px;
+  margin-left: 12px;
+}
+video source{
+  width: 134px;
+  padding-left: 33px;
+  background-size: auto;
+}
+.r{
+  height: 30px;
+  margin-top: 340px;
+  font-family: cursive;
+  font-size: 70px;
+  text-align: center;
+  font-weight: bold;
+  color: blue;
+  text-shadow: 7px 8px 7px yellow;
+}
+.a h2{
+  margin-top: 33px;
+  text-align: center;
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: crimson;
+  text-shadow: 3px 14px 7px white;
+}
+
+.footer{
+       
+       font-size: 50px;
+       margin-top: -40px;
+       height: 70px;
+       background: lightyellow ;
+       color: black;
+       font-family: serif;
+       font-weight: bold;
+       text-align: center;
+  }
